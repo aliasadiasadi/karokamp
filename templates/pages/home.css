@@ -1,0 +1,13 @@
+/* styles.css */
+.button-link button {
+  /* استایل‌های دکمه، مثلاً */
+  background-color: #007bff;
+  color: white;
+  padding: 10px 15px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.button-link button:hover {
+  background-color: #0056b3;
+}
